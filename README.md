@@ -7,5 +7,7 @@ En este repositorio encontrarás una solución al reto de Kaggle titulado *Tenso
 - David Fernando Parada Brijalba, dfparadab@unal.edu.co 
 
 ## Contenido
-### Teoría e Implementación 
+- Preprocesamiento [GitHub](https://github.com/Daveztat/YOLOv8/blob/main/preprossesing.ipynb)
+- Entrenamiento [GitHub](https://github.com/Daveztat/YOLOv8/blob/main/train_work.ipynb)
+- Como reconstruir los videos [GitHub](https://github.com/Daveztat/YOLOv8/blob/main/make_video.ipynb)
 
