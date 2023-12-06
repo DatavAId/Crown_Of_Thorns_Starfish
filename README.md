@@ -1,13 +1,13 @@
-# Ayuda a Proteger la Gran Barrera de Coral 
+# Help Protect the Great Barrier Reef (Kaggle Competition)
 ## Universidad Nacional de Colombia
 
-En este repositorio encontrarás una solución al reto de Kaggle titulado *TensorFlow - Help Protect the Great Barrier Reef: Detect Crown-of-Thorns Starfish in Underwater Image Data*. Implementando la versión 8 de YOLO (You Only Look Once), los datos necesarios para reproducir el código los encontrarás en [Kaggle](https://www.kaggle.com/competitions/tensorflow-great-barrier-reef/data).
+In this repository, you will find a solution to the Kaggle challenge titled *TensorFlow - Help Protect the Great Barrier Reef: Detect Crown-of-Thorns Starfish in Underwater Image Data*. Implementing version 8 of YOLO (You Only Look Once), the necessary data to reproduce the code can be found on [Kaggle](https://www.kaggle.com/competitions/tensorflow-great-barrier-reef/data).
 
-## Contribuyentes  
+## Authors  
 - David Fernando Parada Brijalba, dfparadab@unal.edu.co 
 
-## Contenido
-- Preprocesamiento [GitHub](https://github.com/Daveztat/YOLOv8/blob/main/preprossesing.ipynb)
-- Entrenamiento [GitHub](https://github.com/Daveztat/YOLOv8/blob/main/train_work.ipynb)
-- Como reconstruir los videos [GitHub](https://github.com/Daveztat/YOLOv8/blob/main/make_video.ipynb)
+## Contentents
+- Preprocesing [GitHub](https://github.com/Daveztat/YOLOv8/blob/main/preprossesing.ipynb)
+- Training [GitHub](https://github.com/Daveztat/YOLOv8/blob/main/train_work.ipynb)
+- Making the Videos [GitHub](https://github.com/Daveztat/YOLOv8/blob/main/make_video.ipynb)
 
